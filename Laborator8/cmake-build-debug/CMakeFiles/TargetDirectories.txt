@@ -1,0 +1,3 @@
+D:/pb de c/AF/Laborator8/cmake-build-debug/CMakeFiles/Laborator8.dir
+D:/pb de c/AF/Laborator8/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/pb de c/AF/Laborator8/cmake-build-debug/CMakeFiles/rebuild_cache.dir
